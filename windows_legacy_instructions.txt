@@ -52,4 +52,4 @@ certmgr.msc > Untrusted Certificates > Certificates
 
 Sometimes they can take a few seconds to appear so you may have to switch to
 another certificate list and then switch back to see the untrusted list updated
-with the new entries.
+with the new entries. 
